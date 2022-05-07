@@ -14,3 +14,6 @@ _ Name: Peter Benjamin Parker
 - Year: 2019
 _ Name: Peter Benjamin Parker
 
+#Spider-Man: Far From Home
+- Year: 2019
+_ Name: Peter Benjamin Parker
